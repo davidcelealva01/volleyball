@@ -1,0 +1,8 @@
+body {
+    background-color: red;
+}
+.title {
+    text-align: center;
+     border: 30px solid maroon;
+     background-color: maroon;
+}
